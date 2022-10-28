@@ -1,0 +1,78 @@
+# SwiftFormat Rules: https://github.com/nicklockwood/SwiftFormat/blob/master/Rules.md
+--exclude *
+--unexclude Sources
+
+--allman false
+--assetliterals visual-width
+--beforemarks 
+--binarygrouping 4,8
+--categorymark "MARK: %c"
+--classthreshold 0
+--closingparen balanced
+--commas always
+--conflictmarkers reject
+--decimalgrouping 3,6
+--elseposition next-line
+--emptybraces no-space
+--enumthreshold 0
+--exponentcase lowercase
+--exponentgrouping disabled
+--extensionacl on-extension
+--extensionlength 0
+--extensionmark "MARK: - %t + %c"
+--fractiongrouping disabled
+--fragment false
+--funcattributes preserve
+--groupedextension "MARK: %c"
+--guardelse auto
+--header "\n// Copyright (c) 2021-{year} Netsoft Inc. All rights reserved.\n"
+--hexgrouping 4,8
+--hexliteralcase uppercase
+--ifdef no-indent
+--importgrouping testable-first
+--indent 4
+--indentcase true
+--lifecycle 
+--linebreaks lf
+--markextensions always
+--marktypes always
+--maxwidth 140
+--modifierorder 
+--nevertrailing 
+--nospaceoperators 
+--nowrapoperators 
+--octalgrouping 4,8
+--operatorfunc spaced
+--organizetypes actor,class,enum,struct
+--patternlet hoist
+--ranges spaced
+--redundanttype inferred
+--self insert
+--selfrequired 
+--semicolons inline
+--shortoptionals always
+--smarttabs enabled
+--stripunusedargs unnamed-only
+--structthreshold 0
+--tabwidth unspecified
+--trailingclosures 
+--trimwhitespace always
+--typeattributes preserve
+--typemark "MARK: - %t"
+--varattributes preserve
+--voidtype void
+--wraparguments before-first
+--wrapcollections before-first
+--wrapconditions after-first
+--wrapparameters preserve
+--wrapreturntype if-multiline
+--xcodeindentation disabled
+--yodaswap always
+--disable wrapMultilineStatementBraces,consecutiveSpaces
+#--disable spaceInsideParens,wrap,wrapArguments
+--enable isEmpty,wrapEnumCases
+
+# Avoid fights with AppCode's formatter
+--disable spaceAroundComments
+# FIXME: https://github.com/nicklockwood/SwiftFormat/issues/1197
+--disable preferKeyPath

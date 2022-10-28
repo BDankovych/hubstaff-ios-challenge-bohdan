@@ -1,0 +1,34 @@
+line_length:
+  warning: 140
+  ignores_comments: true
+  ignores_interpolated_strings: true
+colon:
+  flexible_right_spacing: true
+type_name:
+  allowed_symbols: "_"
+  min_length: 1
+identifier_name:
+  allowed_symbols: "_"
+  min_length: 1
+switch_case_alignment:
+  indented_cases: true
+function_parameter_count: 8
+file_length: 1000
+type_body_length: 400
+cyclomatic_complexity:
+  warning: 15
+  ignores_case_statements: true
+function_body_length: 70
+trailing_comma:
+  mandatory_comma: true
+nesting:
+  type_level: 3
+statement_position:
+  statement_mode: uncuddled_else
+opening_brace:
+  allowMultilineFunc: true
+disabled_rules:
+  - todo          # TODOs are permitted as annotated markers for future improvements.
+  - large_tuple   # We allow large tuples as cheap and easy anonymous struct substitutes.
+  - opening_brace # https://github.com/realm/SwiftLint/issues/4026
+

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+cd "${BASH_SOURCE%/*}"
+
+for imageset in *.imageset; do
+    svgFile=("$imageset/"*.svg) svgName=${imageset%.imageset}
+    if [[ ${svgFile#*/} != $svgName.svg ]]; then
+        ex -sc "%s/${svgFile#*/}/$svgName.svg/ge|x" "$imageset/Contents.json"
+        mv -v "$svgFile" "$imageset/$svgName.svg"
+    fi
+done

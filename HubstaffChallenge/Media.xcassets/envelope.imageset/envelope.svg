@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>249398D5-FBBB-43C3-9F97-B6B1AE4ECFFD</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="log-in" transform="translate(-36.000000, -266.000000)">
+            <g id="Group" transform="translate(20.000000, 247.000000)">
+                <g id="email" transform="translate(16.000000, 19.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="20" height="20"></rect>
+                    <rect id="Rectangle" stroke="#256FF8" stroke-width="1.5" x="0.75" y="2.75" width="18.5" height="14.5" rx="4"></rect>
+                    <polyline id="Path-19" stroke="#256FF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="1 6 10 11 19 6"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

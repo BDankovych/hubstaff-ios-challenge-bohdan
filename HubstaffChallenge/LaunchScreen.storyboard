@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tabBar contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" translucent="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BeZ-iT-2j4">
+                                <rect key="frame" x="0.0" y="813" width="414" height="49"/>
+                                <items>
+                                    <tabBarItem title="Dashboard" image="gauge" id="D0A-FO-G1B"/>
+                                    <tabBarItem title="Timesheets" image="clock" id="9Ty-mD-X1W"/>
+                                    <tabBarItem title="Timer" image="play.circle.small" id="rbG-Tx-J90"/>
+                                    <tabBarItem title="Reports" image="doc.plaintext" id="uV0-Tt-IWz"/>
+                                    <tabBarItem title="More" image="ellipsis" id="g3g-DM-qsy"/>
+                                </items>
+                                <tabBarAppearance key="standardAppearance">
+                                    <tabBarItemAppearance key="stackedLayoutAppearance">
+                                        <tabBarItemStateAppearance key="normal">
+                                            <textAttributes key="titleTextAttributes">
+                                                <color key="textColor" name="hubstaff.text.primary"/>
+                                            </textAttributes>
+                                            <color key="iconColor" name="hubstaff.text.primary"/>
+                                        </tabBarItemStateAppearance>
+                                        <tabBarItemStateAppearance key="selected"/>
+                                        <tabBarItemStateAppearance key="disabled"/>
+                                        <tabBarItemStateAppearance key="focused"/>
+                                    </tabBarItemAppearance>
+                                </tabBarAppearance>
+                            </tabBar>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Bcu-3y-fUS"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="BeZ-iT-2j4" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="4zq-Zs-zOV"/>
+                            <constraint firstItem="Bcu-3y-fUS" firstAttribute="bottom" secondItem="BeZ-iT-2j4" secondAttribute="bottom" id="KaR-nr-AFC"/>
+                            <constraint firstAttribute="trailing" secondItem="BeZ-iT-2j4" secondAttribute="trailing" id="mpx-8F-ICW"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="clock" width="24" height="24"/>
+        <image name="doc.plaintext" width="24" height="24"/>
+        <image name="ellipsis" width="24" height="24"/>
+        <image name="gauge" width="24" height="24"/>
+        <image name="play.circle.small" width="24" height="24"/>
+        <namedColor name="hubstaff.text.primary">
+            <color red="0.10588234663009644" green="0.10588234663009644" blue="0.10588234663009644" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

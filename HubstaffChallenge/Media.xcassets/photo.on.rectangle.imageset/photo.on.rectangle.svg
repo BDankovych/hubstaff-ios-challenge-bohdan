@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FF167509-D9E8-4E87-9D81-58CA6EC448C3</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="timer-running-" transform="translate(-324.000000, -626.000000)">
+            <g id="job-note" transform="translate(311.000000, 615.000000)">
+                <g transform="translate(13.000000, 12.500000)">
+                    <rect id="Rectangle" stroke="#256FF8" stroke-width="1.5" transform="translate(9.000000, 10.000000) rotate(-90.000000) translate(-9.000000, -10.000000) " x="0.25" y="1.75" width="17.5" height="16.5" rx="4"></rect>
+                    <path d="M7.09833496,10.5279426 L8.625,11.875 L8.625,11.875 L10.369921,9.39537541 C10.6082982,9.0566289 11.0761494,8.97526347 11.4148959,9.21364065 C11.4906742,9.26696611 11.5559148,9.33387218 11.6073135,9.41097032 L14.4817666,13.7226499 C14.6349428,13.9524142 14.5728559,14.2628489 14.3430916,14.4160251 C14.2609578,14.470781 14.1644539,14.5 14.0657415,14.5 L4.02231968,14.5 C3.74617731,14.5 3.52231968,14.2761424 3.52231968,14 C3.52231968,13.8888121 3.55938078,13.7807961 3.62764357,13.6930297 L6.01010457,10.6298655 C6.2644071,10.3029052 6.7356138,10.2440043 7.0625742,10.4983068 C7.07479754,10.5078139 7.08672351,10.5176972 7.09833496,10.5279426 Z" id="Path-37" fill="#256FF8" transform="translate(9.000000, 11.500000) rotate(-360.000000) translate(-9.000000, -11.500000) "></path>
+                    <circle id="Oval" fill="#256FF8" transform="translate(6.500000, 7.000000) rotate(-360.000000) translate(-6.500000, -7.000000) " cx="6.5" cy="7" r="1.5"></circle>
+                    <line x1="4" y1="0" x2="4" y2="2.5" id="Path-39" stroke="#256FF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="11.5" y1="0" x2="11.5" y2="2.5" id="Path-39-Copy-2" stroke="#256FF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="6.5" y1="0" x2="6.5" y2="2.5" id="Path-39-Copy" stroke="#256FF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="14" y1="0" x2="14" y2="2.5" id="Path-39-Copy-3" stroke="#256FF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

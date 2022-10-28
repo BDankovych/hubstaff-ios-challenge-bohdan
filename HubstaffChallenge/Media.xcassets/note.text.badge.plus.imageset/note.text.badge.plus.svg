@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>83C688AB-5A2B-452D-8A3B-CD94FADE9AD4</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="timer-running-" transform="translate(-323.000000, -681.000000)">
+            <g id="note" transform="translate(323.000000, 681.000000)">
+                <path d="M11,0 L11,1.5 L4,1.5 C2.6745166,1.5 1.58996133,2.53153594 1.50531768,3.83562431 L1.5,4 L1.5,16 C1.5,17.3254834 2.53153594,18.4100387 3.83562431,18.4946823 L4,18.5 L11,18.5 L11,20 L4,20 C1.790861,20 0,18.209139 0,16 L0,4 C0,1.790861 1.790861,0 4,0 L11,0 Z" id="Path" fill="#3875E8" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#3875E8" cx="11" cy="0.75" r="1"></circle>
+                <circle id="Oval-Copy-2" fill="#3875E8" cx="11" cy="19.25" r="1"></circle>
+                <path d="M17,1.37132034 C17.1919417,1.37132034 17.3838835,1.44454365 17.5303301,1.59099026 L17.5303301,1.59099026 L18.4090097,2.46966991 C18.5554564,2.61611652 18.6286797,2.80805826 18.6286797,3 C18.6286797,3.19194174 18.5554564,3.38388348 18.4090097,3.53033009 L18.4090097,3.53033009 L8.57852425,13.3608156 L6.09129847,14.3557059 L6.69069181,11.3699684 L16.4696699,1.59099026 C16.6161165,1.44454365 16.8080583,1.37132034 17,1.37132034 Z" id="Path-16" stroke="#3875E8" stroke-width="1.5"></path>
+                <line x1="15" y1="3" x2="17" y2="5" id="Path-20" stroke="#3875E8" stroke-width="1.5"></line>
+                <line x1="15" y1="11" x2="15" y2="19" id="Path-36" stroke="#3875E8" stroke-width="1.5" stroke-linecap="round"></line>
+                <line x1="19" y1="15" x2="11" y2="15" id="Path-36-Copy" stroke="#3875E8" stroke-width="1.5" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

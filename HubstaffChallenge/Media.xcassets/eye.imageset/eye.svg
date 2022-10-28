@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FBBC7C0E-433E-49F9-81A4-7708E2FAA52C</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="log-in" transform="translate(-319.000000, -503.000000)">
+            <g id="Group" transform="translate(20.000000, 247.000000)">
+                <g id="password" transform="translate(0.000000, 69.000000)">
+                    <g id="visible" transform="translate(299.000000, 187.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="20" height="20"></rect>
+                        <path d="M10,3.75 C12.7577213,3.75 15.4774663,5.5180969 18.2102815,8.88424745 C18.510943,9.26429937 18.6829715,9.63200763 18.7167226,9.97796245 C18.7458726,10.2767553 18.6607976,10.5487597 18.4841125,10.773199 C15.656075,14.365594 12.8487092,16.25 10,16.25 C7.24227868,16.25 4.52253365,14.4819031 1.7897185,11.1157526 C1.48905702,10.7357006 1.3170285,10.3679924 1.28327738,10.0220376 C1.25412735,9.72324469 1.33920242,9.45124029 1.51588752,9.22680102 C4.34392501,5.634406 7.15129076,3.75 10,3.75 Z" id="Rectangle" stroke="#1B1B1B" stroke-width="1.5"></path>
+                        <circle id="Oval" stroke="#1B1B1B" stroke-width="1.5" cx="10" cy="10" r="3.25"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
